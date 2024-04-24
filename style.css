@@ -1,0 +1,44 @@
+.container-xxl {
+    display: flex;
+}
+
+/*navbar style*/
+.logo {
+    height: 50px;
+    width: 50px;
+}
+
+.navbar .nav-link {
+    font-size: 1.5rem;
+    color: black;
+}
+
+.navbar-brand {
+    color: black;
+}
+
+.navbar-nav {
+    /*justify-content: center;*/
+}
+
+.navbar-collapse {
+    flex: none !important;
+    flex-grow: revert;
+}
+
+.btnArea {
+    margin-right: 100px;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+/*hero text*/
+.txtcolor {
+    color: rgb(247, 110, 16);
+}
+
+.subtext {
+    font-size: 1.5rem;
+}
