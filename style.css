@@ -9,7 +9,7 @@
 }
 
 .navbar .nav-link {
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: black;
 }
 
@@ -42,3 +42,29 @@
 .subtext {
     font-size: 1.5rem;
 }
+
+/*Login Page*/
+#container2 {
+    display: flex;
+    background-color: rgb(124, 41, 232);
+    height: 100vh;
+}
+img {
+    height: 50px;
+    width: 50px;
+}
+.white-area{
+    height: 55%;
+    width: auto;
+    background-color: white;
+    margin: auto;
+    padding: 30px 30px;
+    justify-content: center;
+    border-radius: 5%;
+}
+#container2 .white-area {
+    display: block;
+}
+/*.btn{*/
+/*    color: rgb(124, 41, 232);*/
+/*}*/
