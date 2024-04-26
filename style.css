@@ -49,11 +49,13 @@
     background-color: rgb(124, 41, 232);
     height: 100vh;
 }
+
 img {
     height: 50px;
-    width: 50px;
+    /*width: 50px;*/
 }
-.white-area{
+
+.white-area {
     height: 55%;
     width: auto;
     background-color: white;
@@ -62,9 +64,7 @@ img {
     justify-content: center;
     border-radius: 5%;
 }
+
 #container2 .white-area {
     display: block;
 }
-/*.btn{*/
-/*    color: rgb(124, 41, 232);*/
-/*}*/
