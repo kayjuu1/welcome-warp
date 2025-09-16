@@ -1,5 +1,5 @@
 # WelcomeWarp
-This is a sort of Landing Page for [Desmond Kwadwo Owusu](https://github.com/kayjuu1) during my HTML and CSS recarp.
+This is a sort of Landing Page for [Desmond Kwadwo Owusu](https://github.com/kayjuu1) during my HTML and CSS recap.
 
 [//]: # (## Table of Contents)
 
